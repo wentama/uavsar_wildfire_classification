@@ -1,6 +1,6 @@
 # uavsar_wildfire_classification
 
-## Abstract
+#### Abstract
 Wildfires are an ongoing threat to communities due to climate change. They are 
 characterized by their unpredictability and can lead to severe consequences if not handled 
 appropriately. Remote sensing can significantly contribute to wildfire monitoring by providing 
@@ -15,4 +15,9 @@ severity maps, reducing the manual efforts required. This product will enable re
 monitoring by providing timely updates to aid disaster response and serve as a protype for future 
 research in wildfire classification using UAVSAR data. 
 
+#### Paper: [[pdf](JPL_sum23_report.pdf)]
+
+The product has been updated in _Fall 2023_ to utilize opposite flight directions to treat missing data and removed holes in the perimeter polygon.
+
+#### Studied Fire
 ![](fires.png)
