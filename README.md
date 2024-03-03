@@ -1,4 +1,4 @@
-# uavsar_wildfire_classification
+# Classification of UAVSAR Polarimetric Data for Wildfire Monitoring
 
 #### Abstract
 Wildfires are an ongoing threat to communities due to climate change. They are 
