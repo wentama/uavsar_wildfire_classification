@@ -1,5 +1,7 @@
 # Classification of UAVSAR Polarimetric Data for Wildfire Monitoring
 
+by Wen Tao Lin (NASA/JPL Summer Internship Program 2023)
+
 #### Abstract
 Wildfires are an ongoing threat to communities due to climate change. They are 
 characterized by their unpredictability and can lead to severe consequences if not handled 
