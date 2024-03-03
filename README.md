@@ -14,3 +14,5 @@ severity. Using classification techniques, we automate the generation of fire pe
 severity maps, reducing the manual efforts required. This product will enable real-time wildfire 
 monitoring by providing timely updates to aid disaster response and serve as a protype for future 
 research in wildfire classification using UAVSAR data. 
+
+![](fires.png)
