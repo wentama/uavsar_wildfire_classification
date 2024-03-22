@@ -17,9 +17,16 @@ severity maps, reducing the manual efforts required. This product will enable re
 monitoring by providing timely updates to aid disaster response and serve as a protype for future 
 research in wildfire classification using UAVSAR data. 
 
-#### Paper: [[pdf](JPL_sum23_report.pdf)]
+#### Summer 2023: [[report](JPL_sum23_report.pdf)] [presentation - to be added]
+This report outlines the methodology and approach utilized in the prototype script developed during the summer of 2023 for classifying fire perimeter and assessing burn severity.
 
-The product has been updated in _Fall 2023_ to utilize opposite flight directions to treat missing data and removed holes in the perimeter polygon.
+#### Fall 2024: [[presentation](fall24_presentation.pdf)]
+1) The enhanced approach implemented to address missing data, refine fire perimeter polygons, and highlight improvements over the product developed in the summer of 2023.
+2) A brief analysis of the relationship between UAVSAR polarmetric data and SMAPVEX12's field collected soil moisture. The goal is to use UAVSAR data to estimate field data.
 
 #### Studied Fire
 ![](fires.png)
+
+#### Links
+1) Uninhabited Aerial Vehicle Synthetic Aperture Radar [(UAVSAR)](https://uavsar.jpl.nasa.gov/)
+2) SMAP Validation Experiment 2012 [(SMAPVEX12)](https://smapvex12.espaceweb.usherbrooke.ca/)
