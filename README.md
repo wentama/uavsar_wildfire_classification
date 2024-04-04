@@ -17,7 +17,7 @@ severity maps, reducing the manual efforts required. This product will enable re
 monitoring by providing timely updates to aid disaster response and serve as a protype for future 
 research in wildfire classification using UAVSAR data. 
 
-#### Summer 2023: [[report](JPL_sum23_report.pdf)] [presentation - to be added]
+#### Summer 2023: [[report](JPL_sum23_report.pdf)] [[presentation](summer23_presentation.pdf)]
 This report outlines the methodology and approach utilized in the prototype script developed during the summer of 2023 for classifying fire perimeter and assessing burn severity.
 
 #### Fall 2024: [[presentation](fall24_presentation.pdf)]
