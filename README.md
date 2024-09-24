@@ -20,7 +20,7 @@ research in wildfire classification using UAVSAR data.
 #### Summer 2023: [[presentation](summer23_presentation.pdf)] [[report](JPL_sum23_report.pdf)]
 This report outlines the methodology and approach utilized in the prototype script developed during the summer of 2023 for classifying fire perimeter and assessing burn severity.
 
-#### Fall 2024: [[presentation](fall24_presentation.pdf)]
+#### Fall 2023: [[presentation](fall24_presentation.pdf)]
 1) The enhanced approach implemented to address missing data, refine fire perimeter polygons, and highlight improvements over the product developed in the summer of 2023.
 2) A brief analysis of the relationship between UAVSAR polarmetric data and SMAPVEX12's field collected soil moisture. The goal is to use UAVSAR data to estimate field data.
 
